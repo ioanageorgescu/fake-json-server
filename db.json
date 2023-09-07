@@ -56,7 +56,7 @@
         "email": "Sincere@april.biz",
         "role": "manager",
         "gender": "F",
-        "birthdate": 09-04-1992,
+        "birthdate": "09/04/1992",
         "nationality": "belgian"
     },
     {
@@ -65,7 +65,7 @@
         "email": "Shanna@melissa.tv",
         "role": "co-manager",
         "gender": "M",
-        "birthdate": 05-12-1985,
+        "birthdate": "05/12/1985",
         "nationality": "british"
     },
     {
@@ -74,7 +74,7 @@
         "email": "Nathan@yesenia.net",
         "role": "admin",
         "gender": "NB",
-        "birthdate": 12-03-1999,
+        "birthdate": "12/03/1999",
         "nationality": "american"
     },
     {
@@ -83,7 +83,7 @@
         "email": "Julianne.OConner@kory.org",
         "role": "admin",
         "gender": "F",
-        "birthdate": 11-11-1980,
+        "birthdate": "11/11/1980",
         "nationality": "swedish"
     },
     {
@@ -92,7 +92,7 @@
         "email": "Lucio_Hettinger@annie.ca",
         "role": "employee",
         "gender": "F",
-        "birthdate": 01-02-1975,
+        "birthdate": "01/02/1975",
         "nationality": "russian"
     },
     {
@@ -101,7 +101,7 @@
         "email": "Ioana_Opr@jasper.info",
         "role": "employee",
         "gender": "O",
-        "birthdate": 23-04-2000,
+        "birthdate": "23/04/2000",
         "nationality": "romanian"
     },
     {
@@ -110,7 +110,7 @@
         "email": "Telly.Hoeger@billy.biz",
         "role": "employee",
         "gender": "M",
-        "birthdate": 18-06-1995,
+        "birthdate": "18/06/1995",
         "nationality": "german"
     },
     {
@@ -119,7 +119,7 @@
         "email": "Sherwood@rosamond.me",
         "role": "employee",
         "gender": "NB",
-        "birthdate": 12-03-1981,
+        "birthdate": "12/03/1981",
         "nationality": "austrian"
     },
     {
@@ -128,7 +128,7 @@
         "email": "Chaim_McDermott@dana.io",
         "role": "part time employee",
         "gender": "F",
-        "birthdate": 19-10-2001,
+        "birthdate": "19/10/2001",
         "nationality": "british"
     },
     {
@@ -137,7 +137,7 @@
         "email": "Rey.Padberg@karina.biz",
         "role": "part time employee",
         "gender": "NB",
-        "birthdate": 20-01-2002,
+        "birthdate": "20/01/2002",
         "nationality": "french"
     }
   ],
