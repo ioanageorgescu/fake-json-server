@@ -5,7 +5,6 @@ const app = express();
 
 app.get('/api/users', (req, res) =>
   res.send({
-    {
   "posts": [
     {
         "userId": 1,
