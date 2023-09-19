@@ -140,6 +140,7 @@
       "id": 1,
       "name": "The Goredrinker",
       "floors": 4,
+      "offices": 10,
       "address": "Spain, Ronda Noa 8, Navarra, As Arce de Lemos, 94647",
       "localsrc": "C:/Users/igeorgescu/iDesk/office-management/src/assets/b1.png",
       "globalsrc": "https://www.liveenhanced.com/wp-content/uploads/2018/04/Small-Office-Building-Design-Ideas-39.jpg"
@@ -148,6 +149,7 @@
       "id": 2,
       "name": "Slay Palace",
       "floors": 6,
+      "offices": 25,
       "address": "Hong Kong, 70 Tsui O Kau Tsuen, New Territories, 46125",
       "localsrc": "C:/Users/igeorgescu/iDesk/office-management/src/assets/b2.png",
       "globalsrc": "https://th.bing.com/th/id/OIP.6T9oyTgHYNkMPGC4aLFwrgHaHM?pid=ImgDet&w=474&h=460&rs=1"
@@ -156,6 +158,7 @@
       "id": 3,
       "name": "SM Entertainment",
       "floors": 5,
+      "offices": 34,
       "address": "South Korea, Seoul, 83-21 Wangsimni-ro, Seong-dong-gu",
       "localsrc": "C:/Users/igeorgescu/iDesk/office-management/src/assets/b3.png",
       "globalsrc": "https://koreajoongangdaily.joins.com/data/photo/2020/12/30/ae60b29c-9fec-4200-be3e-47a33dbb10f7.jpg"
