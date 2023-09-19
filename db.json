@@ -135,6 +135,26 @@
         "nationality": "french"
     }
   ],
+  "buildings": [
+    {
+      "id": 1,
+      "name": "The Goredrinker",
+      "floors": 4,
+      "address": "Spain, Ronda Noa 8, Navarra, As Arce de Lemos, 94647"
+    },
+    {
+      "id": 2,
+      "name": "Slay Palace",
+      "floors": 6,
+      "address": "Hong Kong, 70 Tsui O Kau Tsuen, New Territories, 46125"
+    },
+    {
+      "id": 3,
+      "name": "SM Entertainment",
+      "floors": 5,
+      "address": "South Korea, Seoul, 83-21 Wangsimni-ro, Seong-dong-gu"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
